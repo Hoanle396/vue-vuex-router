@@ -1,4 +1,4 @@
-# vuelearn
+# vue-learn-basic vuex vue_router
 
 ## Project setup
 ```
